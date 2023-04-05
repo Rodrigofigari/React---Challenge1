@@ -1,6 +1,6 @@
 # React-Challenge 1
 
-- Utilizamos la api de Star Wars
+- Utilizamos la api de Star Wars : https://swapi.dev/
 
 * Debemos pegarle a la api y mostrar los nombres como una lista en pantalla
 * Debemos hacer un detalle de cada uno de los personajes. Este se activara al hacer click sobre el nombre
